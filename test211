@@ -1,0 +1,4 @@
+2023-11-19 14:18:32.709  INFO 25284 --- [main] com.example.demo.LoggerTest              : Starting LoggerTest using Java 1.8.0_391 on DESKTOP-66Q2LMN with PID 25284 (started by tq in C:\gs-rest-service-main\demo4)
+2023-11-19 14:18:32.710  INFO 25284 --- [main] com.example.demo.LoggerTest              : No active profile set, falling back to 1 default profile: "default"
+2023-11-19 14:18:34.143  INFO 25284 --- [main] com.example.demo.LoggerTest              : Started LoggerTest in 1.979 seconds (JVM running for 3.387)
+2023-11-19 14:18:34.353  INFO 25284 --- [main] com.example.demo.LoggerTest              : info...姓名：张三, 性别男
